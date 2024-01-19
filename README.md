@@ -1,5 +1,6 @@
 # ATLIQ_Hospitality-Analysis
 As part of the codebasics resume challenge, I have worked on this analysis project.
+
 To know more about: https://codebasics.io/challenge/codebasics-resume-project-challenge
 
 Live Dashboard : https://app.powerbi.com/groups/me/reports/009924a4-12e0-4139-95a7-cdd6daf49d54/ReportSection?experience=power-bi
